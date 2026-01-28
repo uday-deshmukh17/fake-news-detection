@@ -1,0 +1,43 @@
+# Enhanced Fake News Detector - Requirements
+# ==========================================
+
+# Core Web Scraping
+selenium>=4.15.0
+trafilatura>=1.6.0
+newspaper3k>=0.2.8
+beautifulsoup4>=4.12.0
+lxml[html_clean]>=4.9.0
+html5lib>=1.1
+
+# HTTP Requests
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Search
+duckduckgo-search>=4.0.0
+ddgs
+
+# Translation
+deep-translator>=1.11.0
+langdetect>=1.0.9
+
+# NLP and ML
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Utilities
+python-dotenv>=1.0.0
+python-dateutil>=2.8.2
+filelock>=3.12.0
+tldextract>=5.0.0
+
+# Server
+flask>=3.0.0
+werkzeug>=3.0.0
+
+# Optional: Better ChromeDriver management
+webdriver-manager>=4.0.0
+
+# Development
+pytest>=7.4.0
+pytest-timeout>=2.2.0

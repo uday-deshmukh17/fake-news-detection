@@ -1,0 +1,447 @@
+{
+  "label": "REAL",
+  "confidence": 0.99,
+  "explanation": "Consensus score of 1.00 and average credibility of 0.83 support the claim that India is the 4th largest economy, with all sources confirming this information.",
+  "sources": [
+    "https://www.ndtv.com/india-news/india-becomes-worlds-fourth-largest-economy-overtakes-japan-niti-aayog-ceo-bvr-subrahmanyam-8501247",
+    "https://en.wikipedia.org/wiki/Economy_of_India",
+    "https://economictimes.indiatimes.com/news/economy/finance/india-has-become-4th-largest-economy-ahead-of-japan-niti-ceo/articleshow/121393266.cms",
+    "https://www.wionews.com/business-economy/india-surpasses-japan-to-become-4th-largest-economy-at-4-trillion-niti-aayog-ceo-1748158896219",
+    "https://www.linkedin.com/posts/startupro-in_indianeconomy-indiagdp-japangdp-activity-7332462800902012928-g8X3",
+    "https://economictimes.indiatimes.com/opinion/just-in-jest/feels-llke-were-the-4th-biggest-economy/articleshow/121420043.cms",
+    "https://www.cityairnews.com/content/chugh-hails-pm-modis-vision-atmanirbhar-bharat-makes-india-4th-largest-economy-in-just-five-years",
+    "https://factodata.com/india-overtakes-japan-to-become-worlds-4th-largest-economy/",
+    "https://www.indiatoday.in/business/story/india-becomes-fourth-largest-economy-ahead-of-japan-niti-aayog-ceo-2730153-2025-05-25",
+    "https://www.financialexpress.com/policy/economy-india-overtakes-japan-to-become-4th-largest-economy-at-4-trillion-niti-aayog-ceo-3856490/",
+    "https://www.rediff.com/business/report/india-4th-largest-economy-not-yet-but-soon-says-niti-member/20250526.htm",
+    "https://www.newsonair.gov.in/india-becomes-worlds-4th-largest-economy-surpasses-japan-niti-aayog/",
+    "https://www.insightsonindia.com/2025/05/26/india-4th-largest-economy-in-world/",
+    "https://www.drishtiias.com/daily-updates/daily-news-analysis/india-becomes-world-s-4th-largest-economy",
+    "https://www.slideshare.net/FNian/india-an-overview-presentation"
+  ],
+  "category": "all",
+  "timestamp": "2025-12-12T11:25:54.364878",
+  "total_sources_checked": 15,
+  "trusted_sources": 1,
+  "verification_layers": {
+    "avg_source_credibility": 0.6786666666666669,
+    "entity_match_score": 0.0,
+    "entity_details": {
+      "key_entities": [],
+      "source_match_ratios": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "numerical_verification": {
+      "has_numerical_claims": true,
+      "claims": [
+        "4"
+      ],
+      "matches": [
+        {
+          "claimed": "4",
+          "confirmed_by": 15,
+          "total_sources": 15
+        }
+      ],
+      "contradictions": [],
+      "verification_score": 1.0
+    },
+    "semantic_analysis": {
+      "avg_alignment": 0.9333333333333333,
+      "source_alignments": [
+        {
+          "source_idx": 0,
+          "alignment": 0.75,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 1,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 2,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 3,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 4,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": true
+        },
+        {
+          "source_idx": 5,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": true
+        },
+        {
+          "source_idx": 6,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 7,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 8,
+          "alignment": 0.75,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 9,
+          "alignment": 0.75,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 10,
+          "alignment": 0.75,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 11,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 12,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 13,
+          "alignment": 1.0,
+          "has_confirmation": true,
+          "has_denial": false
+        },
+        {
+          "source_idx": 14,
+          "alignment": 1.0,
+          "has_confirmation": false,
+          "has_denial": false
+        }
+      ]
+    },
+    "contradictions": [],
+    "temporal_verification": {
+      "has_temporal_claims": false
+    },
+    "supporting_sources": 15,
+    "contradicting_sources": 0,
+    "neutral_sources": 0,
+    "consensus_score": 1.0,
+    "credibility_scores": [
+      0.9500000000000001,
+      0.6000000000000001,
+      0.9500000000000001,
+      0.6000000000000001,
+      0.6000000000000001,
+      0.9500000000000001,
+      0.6000000000000001,
+      0.6000000000000001,
+      0.9800000000000001,
+      0.6000000000000001,
+      0.6000000000000001,
+      0.55,
+      0.55,
+      0.55,
+      0.5
+    ]
+  },
+  "model_used": "llama3.2",
+  "language": "en",
+  "entities_extracted": {
+    "persons": [],
+    "organizations": [],
+    "locations": [],
+    "numbers": [],
+    "dates": []
+  },
+  "web_evidence": [
+    {
+      "source_number": 1,
+      "title": "India Becomes World's Fourth Largest Economy , Overtakes Japan...",
+      "snippet": "Briefing reporters after the 10th Governing Council meeting of Niti Aayog, Mr Subrahmanyam said the overall geopolitical and economic environment is favourable to India . \"We are the fourth largest economy as I speak.",
+      "full_content": "This Article is From May 25, 2025 India Becomes World's Fourth Largest Economy, Overtakes Japan: NITI Aayog CEO Briefing reporters after the 10th Governing Council meeting of Niti Aayog, BVR Subrahmanyam said the overall geopolitical and economic environment is favourable to India. Read Time: 2 mins Share Twitter WhatsApp Facebook Reddit Email Representational Image New Delhi: India has become the fourth largest economy in the world, overtaking Japan, NITI Aayog CEO BVR Subrahmanyam said on Saturday. Briefing reporters after the 10th Governing Council meeting of Niti Aayog, Mr Subrahmanyam said the overall geopolitical and economic environment is favourable to India. \"We are the fourth largest economy as I speak. We are a USD 4 trillion economy as I speak,\" he said. Citing IMF data, mR Subrahmanyam said India today is larger than Japan. \"It is only the US, China and Germany which are larger than India, and if we stick to what is being planned and what is being thought through, in 2.5-3 years, we will be the third largest economy,\" Mr Subrahmanyam. Responding to a question on US President Donald Trump's recent statement that he expects Apple iPhones that will be sold in the US to be manufactured in America and not India, or anyplace else, Mr Subrahmanyam said, \"What the tariff will be, is uncertain. Given the dynamics, we will be cheap place to manufacture.\" He also said that a second round of asset monetisation pipeline is being prepared and it will be announced in August. (Except for the headline, this story has not been edited by NDTV staff and is published from a syndicated feed.) Show full article Track Latest News Live on NDTV.com and get news updates from India and around the world Follow us: India Economy , India Economy 2025 , NITI Aayog CEO",
+      "url": "https://www.ndtv.com/india-news/india-becomes-worlds-fourth-largest-economy-overtakes-japan-niti-aayog-ceo-bvr-subrahmanyam-8501247",
+      "domain": "ndtv.com",
+      "trusted": true,
+      "credibility_score": 0.87,
+      "content_length": 1779
+    },
+    {
+      "source_number": 2,
+      "title": "Economy of India - Wikipedia",
+      "snippet": "The economy of India is a developing mixed economy with a notable public sector in strategic sectors.",
+      "full_content": "From Wikipedia, the free encyclopedia Economy of India Mumbai , the financial capital of India [ 1 ] [ 2 ] Currency Indian rupee (INR, ₹) Fiscal year 1 April – 31 March Trade organisations WTO , WCO , SAFTA , BIMSTEC , WFTU , BRICS , G-20 , BIS , AIIB , ADB and others Country group Developing [ 3 ] Lower-middle income economy [ 4 ] Newly industrialized country Statistics Population 1,428,627,663 ( 1st; 2024 est .) [ 5 ] GDP $4.19 trillion ( nominal ; 2025 est.) [ 6 ] $17.71 trillion ( PPP ; 2025 est.) [ 6 ] GDP rank 5th (nominal; 2025) 3rd (PPP; 2025) GDP growth 6.5% (FY2024) [ 7 ] 6.6% (FY2025) [ 6 ] 8.2% (Q2 FY2025) [ 8 ] 6.3% (FY2026) [ 7 ] GDP per capita $2,820 (nominal; 2025 est.) [ 7 ] $12,100 (PPP; 2025 est.) [ 7 ] GDP per capita rank 136th (nominal; 2025) [ a ] 119th (PPP; 2025) [ a ] GDP by sector Agriculture : 17.7% Industry : 27.6% Services : 54.7% (FY 2023–24) [ 9 ] GDP by component Private final consumption : 56.3% Government final consumption: 9.3% Gross fixed capital formation : 33.5% Exports of goods and services: 22.6% Imports of goods and services: -23.2% Other source: 2.5% (FY 2024–25) [ 10 ] Inflation ( CPI ) 0.25% (October 2025) [ 11 ] Population below poverty line 5.25% on less than $3/day (2022) [ 12 ] 82.06% on less than $8.30/day (2022) [ 13 ] Gini coefficient 25.5 low (2025) [ 14 ] Human Development Index 0.685 medium (2023, HDI 130th ) [ 15 ] 0.475 low (2023, IHDI 120th ) [ 15 ] Corruption Perceptions Index 38 out of 100 points (2024) [ 16 ] ( rank 96th ) Labour force ~610 million (2025) [ 17 ] 42.1% employment rate Labour force by occupation Infrastructure : 13% [ 18 ] [ 19 ] [ 20 ] Agriculture : 44% [ 21 ] Industry : 28% [ 22 ] Services : 34% [ 23 ] (2023) Unemployment 4.9% (March 2025) [ 6 ] Final consumption expenditure 70.7% of GDP (2023) [ 24 ] Gross capital formation 31% of GDP (2023) [ 25 ] Gross savings 31.781% of GDP (2023) [ 26 ] Yield curve 10-year bond 7.190% (Jan 2023) [ 27 ] [ 28 ] Purchasing Managers' Index 58.3 Manufacturing (June 2024) [ 29 ] 61.2 Services (June 2024) [ 30 ] Main industries Mining and ore processing (including Coal , Iron ore , Aluminium and other metals); Steel and other base metals; Petrochemicals ; Cement ; capital goods and heavy machinery; transportation equipment (including Automobiles and EV components); electronics and semiconductors; consumer electronics and home appliances; textiles and apparel; software and IT and Artificial intelligence ; pharmaceuticals and biotechnology ; medical devices ; renewable energy ; defense manufacturing ; aerospace and space technology (satellites, launch vehicles); agribusiness and food processing; financial technology ; infrastructure External Exports $824.9 billion (FY 2024–25) [ 31 ] Export goods Manufacturers 70.7% Fuels and mining products 14.7% Agricultural products 14.1% Others 0.5% [ 32 ] (2022) Main export partners United States 17.7% European Union 17.4% United Arab Emirates 8.2% China 5.7% Hong Kong 1.9% Singapore 2.9% United Kingdom 2.6% Saudi Arabia 2.6% Bangladesh 2.5% South Africa 2.0% Australia 1.8% (2023–24) [ 33 ] Imports $915.19 billion (FY 2024–25) [ 34 ] Import goods Agricultural products 7% Fuels and mining products 33.2% Manufacturers 52.1% Other 7.7 % [ 32 ] (2022) Main import partners China 18.1% Hong Kong 3.0% Russia 9.1% European Union 8.8% United Arab Emirates 7.1% United States 6.0% Saudi Arabia 4.7% Iraq 4.4% Indonesia 3.5% Switzerland 3.1% Singapore 3.1% (2023–24) [ 33 ] FDI stock $514 billion (2021–22) [ 35 ] [ 36 ] Current account –$44.563 billion (2024) [ 26 ] [ 37 ] –1.146% of GDP (2024) [ 26 ] Gross external debt $663.8 billion (March 2024) [ 38 ] ( 18.7% of GDP) Net international investment position –$379.7 billion (June 2023) [ 39 ] Public finances Government debt ₹ 320.782 trillion (US$3.8 trillion) [ 26 ] 80.4% of GDP (2025) [ 26 ] Foreign reserves $688.10 billion [ b ] [ 40 ] ( 4th ) (as of 05 September 2025) Budget balance –6.4% of GDP (2022–23) [ 41 ] Revenues ₹ 34.96 trillion (US$410 billion) (2025–26) [ 42 ] Expenses ₹ 50.65 trillion (US$600 billion) (2025–26) [ 42 ] Economic aid Donor: $4.234 billion (2021) ($30.59 billions Line of Credit in total) [ 43 ] Credit rating Standard & Poor's : [ 44 ] BBB Outlook: Stable Moody's : [ 45 ] Baa3 Outlook: Stable Fitch : [ 46 ] BBB− Outlook: Stable DBRS : [ 47 ] BBB Outlook: Stable All values, unless otherwise stated, are in US dollars . The economy of India is a developing mixed economy with a notable public sector in strategic sectors. [ 48 ] It is the world's fourth-largest economy by nominal GDP and the third-largest by purchasing power parity (PPP); on a per capita income basis, India ranked 136th by nominal GDP and 119th by PPP-adjusted GDP . [ 49 ] From independence in 1947 until 1991, successive governments followed the Soviet model and promoted protectionist economic policies, with extensive Sovietization , state intervention , demand-side economics , natural resources, bureaucrat-driven enterprises and economic",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_India",
+      "domain": "en.wikipedia.org",
+      "trusted": false,
+      "credibility_score": 0.6200000000000001,
+      "content_length": 8000
+    },
+    {
+      "source_number": 3,
+      "title": "India has become 4th largest economy, ahead of Japan: NITI ...",
+      "snippet": "May 25, 2025 · India has become the fourth largest economy in the world , overtaking Japan, NITI Aayog CEO BVR Subrahmanyam has said. Subrahmanyam said the overall geopolitical and economic environment is favourable to India.",
+      "full_content": "India surpasses Japan to become 4th largest economy, eyes Germany for 3rd spot by 2027 India has become the fourth largest economy in the world, overtaking Japan, NITI Aayog CEO BVR Subrahmanyam has said. Subrahmanyam said the overall geopolitical and economic environment is favourable to India. \"We are the fourth largest economy as I speak. We are a USD 4 trillion economy as I speak,\" he said. Citing IMF data , Subrahmanyam said India today is larger than Japan. Till 2024, India was the fifth-largest economy in the world. \"It is only the US, China and Germany which are larger than India, and if we stick to what is being planned and what is being thought through, in 2.5-3 years, we will be the third largest economy,\" Subrahmanyam said. The International Monetary Fund (IMF), in its World Economic Outlook (WEO) report released in April had said that India is expected to be the fourth largest economy in the world with a GDP of USD 4.19 trillion in 2025, ahead of Japan. India's nominal GDP for 2025 (FY26) is expected to be USD 4.187 billion marginally more than the likely GDP of Japan which is estimated at USD 4.187 billion, the IMF had said. Live Events According to IMF data, India's per capita income has doubled from USD 1,438 in 2013-14 to USD 2,880 in 2025. The IMF in its WEO report also said the Indian economy is projected to grow at 6.2 per cent in 2025-26, slower than earlier estimated rate of 6.5 per cent, due to escalated trade tensions and global uncertainty. \"For India, the growth outlook is relatively more stable at 6.2 per cent in 2025, supported by private consumption, particularly in rural areas,\" the IMF had said. According to the report, the global growth is projected at 2.8 per cent in 2025, lower by 0.5 percentage points estimated earlier. In 2026, the global economy is estimated to grow at 3 per cent. NITI Aayog approach paper titled \"Viksit Rajya For Viksit Bharat @ 2047' said from being considered a part of the 'fragile five' economies of the world, India rose to become the top five economies of the world in just a decade. The World Bank defines high-income countries as those whose annual per capita income is more than USD 14,005 (2024- 25). India has the potential and aims to be a high-income country by 2047. The approach paper said a Viksit Bharat @ 2047 will be a USD 30 trillion economy. \"It will have all the attributes of a developed country with a per capita income that is comparable to the high-income countries of the world today,; the paper said. According to the paper, in order to achieve the goal of a Viksit Bharat by 2047, an overall framework for strategic interventions and reforms based on six key building blocks, with a total of 26 themes covered across all the building blocks have been identified. The six key building blocks are: Macro-Economic Goals and Strategy; Empowered Citizens; A Thriving and Sustainable Economy; Technology and Innovation Leadership; A Global Leader, Vishwa Bandhu; Enabling factors -- Governance, Security and Justice delivery. Add as a Reliable and Trusted News Source Add Now! (You can now subscribe to our Economic Times WhatsApp channel ) ( Originally published on May 25, 2025 ) In Video: India surpasses Japan to become 4th largest economy, eyes Germany for 3rd spot by 2027 Read More News on India economy fourth largest economy NITI Aayog IMF data GDP growth rate Percentage Point Trade Japan economy Viksit Bharat 2047 (You can now subscribe to our Economic Times WhatsApp channel ) Read More News on India economy fourth largest economy NITI Aayog IMF data GDP growth rate Percentage Point Trade Japan economy Viksit Bharat 2047 Prime Exclusives Investment Ideas Stock Report Plus ePaper Wealth Edition How Escorts plans a comeback after Kubota takeover slowed it How push for AI-led productivity is raising risks for Indian IT cos India’s newest airline is quietly prepping for IPO. Can it pull it off? Is RBI taking a leaf out of Fed, BoJ to manage bond yields? Stock Radar: Breakout from Ascending Triangle pattern makes Infosys an attractive buy check target & stop loss Chaos at airports is also a reflection of … : 11 stocks from the tourism & hospitality space with upside potential of up to 33% 1 2 3 View all Stories",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/india-has-become-4th-largest-economy-ahead-of-japan-niti-ceo/articleshow/121393266.cms",
+      "domain": "economictimes.indiatimes.com",
+      "trusted": false,
+      "credibility_score": 0.6200000000000001,
+      "content_length": 4243
+    },
+    {
+      "source_number": 4,
+      "title": "India surpasses Japan to become 4th largest economy at $4 ...",
+      "snippet": "May 25, 2025 · Amid global trade tension, NITI Aayog CEO said that with a GDP of $4 trillion, India has overtaken Japan to become the world’s fourth-largest economy , India has rewritten the global economic leaderboard.",
+      "full_content": "Amid global trade tension, NITI Aayog CEO said that with a GDP of $4 trillion, India has overtaken Japan to become the world’s fourth-largest economy, India has rewritten the global economic leaderboard. With a GDP of $4 trillion, the country has overtaken Japan to become the world’s fourth-largest economy, according to International Monetary Fund (IMF) data cited by NITI Aayog CEO BVR Subrahmanyam. The announcement marks a pivotal moment in India’s growth story one driven by structural reforms, demographic strength, and resilient consumption. According to a report by ANI, NITI Aayog CEO BVR Subrahmanyam confirmed that India has now overtaken Japan to become the world’s fourth-largest economy. “We are a $4 trillion economy as I speak… and this is not my data. This is IMF data. India today is larger than Japan,” Subrahmanyam told ANI. The IMF’s April World Economic Outlook estimates India’s nominal GDP will reach $4.187 trillion in FY2026, narrowly surpassing Japan’s projection of $4.186 trillion. India held the fifth position globally until 2024. Looking ahead, Subrahmanyam told ANI that India is well-positioned to overtake Germany, “It’s only the United States, China, and Germany which are larger… If we stick to what is being planned, it’s a matter of another two, two and a half to three years, we would become the third-largest economy.” He added that India’s economic trajectory is backed by its young and expanding population. “India is at a takeoff stage… and we are blessed with this demographic window for the next 20 to 25 years. The Prime Minister has already asked states to draft vision documents and this planning is showing visible results,” Subrahmanyam said, as quoted by ANI. India’s economic leap comes at a time when global trade tensions are high, and the country is actively negotiating across multiple trade corridors. Post Donald Trump’s returned to Oval office, the US imposed up to 26 per cent tariffs on specific Indian goods. These remain in effect, with India now seeking a full exemption as part of bilateral negotiations. The first phase of a restructured trade agreement is anticipated by July 2025, according to recent reports. Dialogue between New Delhi and Washington has intensified. India is pushing for tariff relaxations in sectors like agriculture and textiles, while the US is keen on securing digital trade guarantees and enhanced data access. India has also finalised a landmark Free Trade Agreement (FTA) with the United Kingdom. Under the pact, tariffs on 90 per cent of British exports to India will be reduced, with 85 per cent of goods becoming fully duty-free over the next 10 years, an ambitious effort to expand India’s trade network beyond traditional partners. Despite geopolitical uncertainties and tightening global credit conditions, the IMF projects India’s economy to grow by 6.2 per cent in 2025 and 6.3 per cent in 2026. These figures remain well above the projected global growth of 2.8 per cent and 3.0 per cent, reinforcing India’s position as the fastest-growing major economy. India’s journey from the fifth largest to the fourth-largest economy reflects both economic resilience and strategic execution. As trade dynamics shift and global economies grapple with uncertainty, India’s sustained growth, favourable demographics, and policy clarity position it to potentially overtake Germany and enter the top three global economies soon.",
+      "url": "https://www.wionews.com/business-economy/india-surpasses-japan-to-become-4th-largest-economy-at-4-trillion-niti-aayog-ceo-1748158896219",
+      "domain": "wionews.com",
+      "trusted": false,
+      "credibility_score": 0.6200000000000001,
+      "content_length": 3420
+    },
+    {
+      "source_number": 5,
+      "title": "India becomes 4 th largest economy , but challenges remain | LinkedIn",
+      "snippet": "India is the 4 th largest economy in the world !!! That means the average Indian citizen still earns 1/20th of what an American does, despite all the “ India is rising” headlines. Here’s what the numbers say: GDP Growth (2025): India : 6.2% USA: 1.8% So...",
+      "full_content": "Startupro.in 154,028 followers 6mo Report this post India Becomes 4th Largest Economy — But the Real Climb Has Just Begun. In a milestone moment for the #IndianEconomy , India has officially overtaken Japan to become the world’s fourth-largest economy by GDP. Once considered an ambitious target, this achievement reflects the country’s rapid economic strides and resilience over the past two decades. Reflecting on this transformation, Anand Mahindra stated, “When I was in business school, the idea of India overtaking Japan in GDP felt like a distant, almost audacious dream. Today, that milestone is no longer theoretical — it’s a reality.” Japan, long regarded as a global economic titan, has historically symbolized industrial strength and efficiency. India's rise beyond it in terms of overall GDP underscores the growing ambition, ingenuity, and enterprise of millions of Indians across sectors and regions. However, experts caution that the real work begins now. While overtaking Japan in terms of aggregate GDP is a significant symbolic and economic milestone, the focus must now shift to per capita GDP — a measure of the average income and living standards of Indian citizens. \"As we celebrate, we must stay dissatisfied,\" the statement continued. \"India’s next leap must be in per capita income, not just surpassing Germany or other economies in nominal terms.\" To maintain momentum and ensure that growth is inclusive and sustainable, India must accelerate structural reforms in key areas: Governance and policy efficiency Manufacturing and job creation. Infrastructure development. Education and skill-building. Access to capital for startups and MSMEs. The sentiment is clear: India’s economic size is growing — but to truly empower every citizen, the country must now focus on quality, depth, and distribution of wealth. #indiaGDP #japanGDP #indiaVSjapan #IndianEconomy #perCapitaGDP #anandMahindra #businessLeaders #startupInsights #startupro 1,423 73 Comments Like Comment Share Copy LinkedIn Facebook X Sanatan Rising 6mo Report this comment India should 1) Fix Pakistan for once. 2) Send back infiltrators by implementing NRC 3) Implement UCC and ONOC 4) Build walled business cities with intra visa system and Union territory status. 5) Introduce fair competition policy and save traditional business from online onslaught and accumulation of wealth in the hands of few. Let the destruction happen for once if it has to happen. Moved ahead with above milestones to build a sustainable economy with high happiness ratings. Like Reply 1 Reaction Ravindra Prasad 6mo Report this comment Ambani and Adani is sufficient to take india on 60 trillion in next 30 year, we require only gdp for the nation what we are getting. So nation can negotiate on table from USA, why per capita is require, Per capita took the mean average that not make any sense, if we consider per capita in that case amabne income also came around 2700$ per year but it not trues after distribution of 4 trillion In 143 crore population, we are not communist nation so distribution of income in family not equally, those family member earn more it their money only those earning less that less money for that member. So why are we calculating per capita that does not make any sense.per capita calculation made the ambani income also down to 2700$ per year but that not true Like Reply 1 Reaction Nibu Thomas 6mo Report this comment Like someone said, when Bill Gates walks into a room, the average per capita of the room is in the millions😇 Like Reply 3 Reactions 4 Reactions George Nolis 6mo Report this comment The per capita GDP of a large sized country like China with a gross GDP of 18.7 trillion dollars is USD 12,614. So according to this data the Chinese are still not considered as rich primarily due to the distribution of the GDP amongst it's population. So, India must put a plug into it's rising population alongside accelerating GDP growth rate to 8% to 10% per year for at least the next twenty years to achieve a status of a rich country like Germany, USA. Like Reply 1 Reaction 2 Reactions Shivesh Tripathi 6mo Report this comment No politician will say this , but fact is, in terms of GDP per capita we are close to 141rank well below Bhutan and Sri Lanka. India has very wide gap between rich and poor.In current economy , only rich is getting richer. Like Reply 5 Reactions 6 Reactions Goutam Prasad 6mo Report this comment Considerate concern. We have to ride on this transformative journey to uplift the quality of life of neglected and marginalised people. विचारशील चिंता। हमें उपेक्षित और हाशिए पर पड़े लोगों के जीवन की गुणवत्ता को ऊपर उठाने के लिए इस परिवर्तनकारी यात्रा पर आगे बढ़ना होगा। Like Reply 1 Reaction Madhu Alapati 6mo Report this comment To improve a country's per capita income, a multi-pronged approach across key sectors is essential: promoting manufacturing to create jobs, boosting the services sector by developing high-value areas like IT, finance, tourism, and heal",
+      "url": "https://www.linkedin.com/posts/startupro-in_indianeconomy-indiagdp-japangdp-activity-7332462800902012928-g8X3",
+      "domain": "linkedin.com",
+      "trusted": false,
+      "credibility_score": 0.6200000000000001,
+      "content_length": 6646
+    },
+    {
+      "source_number": 6,
+      "title": "Feels like we're the 4 th -biggest economy ? - The Economic Times",
+      "snippet": "We just got the memo: India has become the 4 th - largest economy in the world, with a projected GDP of $4.187 bn for FY26. We've also been told that India has surpassed Japan in the GDP stakes. But the way the thermometer says 30° C and yet it 'feels like' 48° C, why does it not feel like...",
+      "full_content": "Synopsis India is now purportedly the world's fourth-largest economy, surpassing Japan, with a projected GDP of $4.187 billion by FY26. However, the reality on the ground, with infrastructure challenges and disparities in wealth distribution, doesn't reflect this economic status. Despite the official recognition, the benefits of this growth are not visibly trickling down to improve everyday life for many citizens. Just in Jest We just got the memo: India has become the 4th-largest economy in the world, with a projected GDP of $4.187 bn for FY26. We've also been told that India has surpassed Japan in the GDP stakes. But the way the thermometer says 30° C and yet it 'feels like' 48° C, why does it not feel like we're the 4th-biggest economy in the world? Look out of the window, and it doesn't seem viksit-y just yet. India could be the opposite of a 'Potemkin Village' - you know, a false facade named after the Russian military leader Grigory Potemkin, who allegedly erected fake villages during Empress Catherine the Great's visit to Crimea to make the region look more prosperous than it really was. In India's case, things look worse than they really may be. Potholes still resemble gurgly swirlpools after a good rain. Public hygiene and civic sense are still Fourth World-ish in certain places. Government offices still greet you with the timeless charm of a printer that hasn't worked since 1991. There's wealth, no doubt - just not the kind that trickles down but rather evaporates into gated communities. In real rich countries, even the wealthy step outdoors for a view or to mingle. Here, bubbles help. But let's make the best of what we have: the official stamp that after the US, China and Germany, India is in the posh line. So what if it doesn't feel like it? Add as a Reliable and Trusted News Source Add Now! Read more news on GDP growth India surpasses Japan economic development 4th largest economy wealth disparity in India India economy India FY26 GDP public hygiene in India (Catch all the Business News , Breaking News , and Latest News Updates on The Economic Times .) Subscribe to The Economic Times Prime and read the ET ePaper online. ...more Add Comment Elevate your knowledge and leadership skills at a cost cheaper than your daily tea. GAIL built nation's gas pipelines for 4 decades. Now it is battling to retain the edge Nadella, Ellison, Pichai have all jumped on the AI bandwagon. But why is Buffett staying away? Investors' 4-year roller-coaster ride on Paytm: How secure is the future? As Indian IT chases the hottest AI role, cost becomes a question. Stock Radar: GMR Airports stock breaks out from rectangular pattern to hit fresh record highs; time to buy or book profits? Multibagger or IBC - Part 33: An auto ancillary caught between ICE engine & EV battery, will management be able to sail through? Stock Radar: FACT stock makes multiple bottoms around 200-DMA since October; time to buy or book profits? Buy, Sell or Hold: Nuvama on Titagarh Rail System; Motilal Oswal initiates coverage on PB Fintech Subscribe Now",
+      "url": "https://economictimes.indiatimes.com/opinion/just-in-jest/feels-llke-were-the-4th-biggest-economy/articleshow/121420043.cms",
+      "domain": "economictimes.indiatimes.com",
+      "trusted": false,
+      "credibility_score": 0.6200000000000001,
+      "content_length": 3067
+    },
+    {
+      "source_number": 7,
+      "title": "Chugh hails PM Modi’s vision: Atmanirbhar Bharat makes India 4 th ...",
+      "snippet": "He said that in just five years since Modi ji gave the clarion call for self-reliance in May 2020, India has risen to become the fourth largest economy in the world — a remarkable achievement born out of the collective strength and resolve of 140 crore Indians .",
+      "full_content": "Chugh hails PM Modi’s vision: Atmanirbhar Bharat makes India 4th largest economy in just five years BJP National General Secretary Tarun Chugh today hailed Prime Minister Narendra Modi’s leadership, saying that the dream of Atmanirbhar Bharat has now become a living reality. He said that in just five years since Modi ji gave the clarion call for self-reliance in May 2020, India has risen to become the fourth largest economy in the world — a remarkable achievement born out of the collective strength and resolve of 140 crore Indians. City Air News Oct 12, 2025 05:52 0 Facebook Twitter Panchkula/Chandigarh, October 12, 2025: BJP National General Secretary Tarun Chugh today hailed Prime Minister Narendra Modi’s leadership, saying that the dream of Atmanirbhar Bharat has now become a living reality. He said that in just five years since Modi ji gave the clarion call for self-reliance in May 2020, India has risen to become the fourth largest economy in the world — a remarkable achievement born out of the collective strength and resolve of 140 crore Indians. Speaking as the Chief Guest at the GST Bachat Mahotsav and Atmanirbhar Bharat Sammelan held at the PWD Rest House auditorium in Panchkula, Chugh said that Atmanirbhar Bharat was never a mere scheme, but a grand mission to secure India’s economic, cultural, and strategic independence. He recalled how, during the pandemic, India turned adversity into strength: “When we depended on foreign countries even for masks and PPE kits, within months India emerged as a leading global producer. This is the identity of self-reliance, the true strength of New India,” he said. Chugh underlined that under the Atmanirbhar Bharat Abhiyan, every sector has registered historic achievements. Electronics production has grown six times, mobile manufacturing has surged 28 times, defence exports have crossed Rs. 23,000 crore to more than 100 countries, and India has established itself as the pharmacy hub of the world. Renewable energy capacity has reached 234 GW, the semiconductor sector has attracted investments of Rs. 1.60 lakh crore, and Digital India has generated production worth Rs. 8.56 lakh crore with 1.35 lakh new jobs. “From Chandrayaan-3 to Operation Sindoor, from AI to green hydrogen, every milestone stands as proof of Modi ji’s vision,” Chugh said. He stressed that the double-engine government has ensured that Haryana too has become a strong pillar in this national journey. Farmers are being empowered with irrigation and crop insurance, MSMEs in auto, textiles, and agri-business are gaining new strength, and women and youth are being encouraged through self-help groups and startups. Chugh concluded by saying that the roadmap is clear: by 2030 India will be the third largest economy, by 2040 the second, and by 2047 a developed nation. “Atmanirbhar Bharat is not just a slogan, it is the truth of New India — a truth shaped by the labour and determination of 140 crore Indians,” he said. The event, presided over by Panchkula District President Ajay Mittal, saw the participation of State Vice President Banto Kataria, Kalka MLA Shakti Rani Sharma, Mayor Kulbhushan Goyal, former Assembly Speaker Gian Chand Gupta, campaign state co-convenor Preeti Johar, senior leader Shyamlal Bansal, Shivalik Board Vice Chairman Om Prakash Devnagar, District General Secretary Jai Kaushik, and constituency convenor K. Chandan, along with a large gathering of prominent traders, doctors, lawyers, educationists, and social workers. In his presidential address, Ajay Mittal welcomed all the dignitaries and announced that numerous awareness programs would be organized across Panchkula district under the Atmanirbhar Bharat Sankalp Abhiyan. He said BJP workers would personally meet traders to encourage the promotion of indigenous products. He further informed that a major convention of local workers, artisans, sculptors, handicraft industries, street vendors, and small shopkeepers will soon be held in Panchkula. It may be noted that BJP is organizing GST Bachat Mahotsav and Atmanirbhar Bharat Sammelans across the country at the assembly level, under which the Panchkula district organization has successfully conducted the program in both its constituencies. Tags: Chugh hails PM Modi’s vision Atmanirbhar Bharat India 4th largest economy",
+      "url": "https://www.cityairnews.com/content/chugh-hails-pm-modis-vision-atmanirbhar-bharat-makes-india-4th-largest-economy-in-just-five-years",
+      "domain": "cityairnews.com",
+      "trusted": false,
+      "credibility_score": 0.6200000000000001,
+      "content_length": 4315
+    },
+    {
+      "source_number": 8,
+      "title": "India Overtakes Japan to Become World’s 4th Largest Economy ...",
+      "snippet": "Nov 2, 2025 · India has officially become the world’s 4th largest economy by nominal GDP in 2025 , overtaking Japan, according to the latest data released by the International Monetary Fund (IMF). India’s GDP now stands at $4.19 trillion, trailing only the United States, China, and Germany.",
+      "full_content": "India Becomes World’s 4th Largest Economy: A Look at GDP Numbers India has officially become the world’s 4th largest economy by nominal GDP in 2025 , overtaking Japan, according to the latest data released by the International Monetary Fund (IMF) . India’s GDP now stands at $4.19 trillion , trailing only the United States, China, and Germany. This marks a historic economic milestone for India, which was ranked the 10th largest economy in 2014 , with a nominal GDP of $2.04 trillion. Over the last decade, India has more than doubled its GDP , showcasing robust economic growth and strong economic policies. Based on current projections by IMF, India is expected to overtake Germany by 2028 , becoming the 3rd largest economy in the world by nominal GDP . In terms of Purchasing Power Parity (PPP) India already ranks as the third-largest economy , behind only China and the United States. As of 2025, India’s PPP-adjusted GDP stands at $17.65 trillion . India GDP 2025: Historical Growth, Latest Trends(1960-2025) PPP vs Nominal GDP: What’s the Difference? Nominal GDP is the market value of all goods and services produced by a country , calculated in current U.S. dollars , using prevailing exchange rates . is Used for comparing international economic size . GDP at Purchasing Power Parity (PPP) adjusts for differences in cost of living and inflation between countries. It shows what people can actually buy with their income in local markets. it is Better for measuring real living standards and poverty comparisons . Read also: Indian States GDP per capita in 2025: overview, Ranking Top 10 country By GDP (Nominal) in 2025 Rank Country Nominal GDP (USD Trillion) 1 United States 30.51 2 China 19.23 3 Germany 4.74 4 India 4.19 4 Japan 4.19 6 United Kingdom 3.84 7 France 3.21 8 Italy 2.42 9 Canada 2.23 10 Brazil 2.13 Top 10 country By GDP (PPP) in 2025 Rank Country PPP GDP (USD Trillion) 1 China 40.72 2 United States 30.51 3 India 17.65 4 Russia 7.19 5 Japan 6.74 6 Germany 6.16 7 Indonesia 5.01 8 Brazil 4.96 9 France 4.50 10 United Kingdom 4.45 What is driving Indian Economic growth? Economic reforms : GST, Digitization, PLI scheme, Make in India Demographic Advantage : High working population. Infrastructure: New Rads, Railways and Airports and Expressways. Service Industry Manufacturing Future challenges Unemployment. Income inequality. Rampant corruption. Lack of natural resources. Regional instability Terrorism Source: IMF",
+      "url": "https://factodata.com/india-overtakes-japan-to-become-worlds-4th-largest-economy/",
+      "domain": "factodata.com",
+      "trusted": false,
+      "credibility_score": 0.5700000000000001,
+      "content_length": 2450
+    },
+    {
+      "source_number": 9,
+      "title": "India now fourth-largest economy, ahead of Japan: Niti Aayog ...",
+      "snippet": "May 25, 2025 · India has climbed a spot in the global economic rankings, overtaking Japan to become the world’s fourth-largest economy , NITI Aayog CEO BVR Subrahmanyam said on Saturday. The country’s GDP has touched the $4 trillion mark, placing it behind only the United States, China and Germany i",
+      "full_content": "India now fourth-largest economy, ahead of Japan: Niti Aayog CEO India's GDP has reached $4 trillion, placing it behind only the US, China, and Germany, according to IMF data cited by NITI Aayog CEO BVR Subrahmanyam. Live TV Share Advertisement India now fourth-largest economy, ahead of Japan: Niti Aayog CEO India Today News Desk India now fourth-largest economy, ahead of Japan: Niti Aayog CEO , UPDATED: May 25, 2025 09:31 IST Written By: Koustav Das India has climbed a spot in the global economic rankings, overtaking Japan to become the world’s fourth-largest economy, NITI Aayog CEO BVR Subrahmanyam said on Saturday. The country’s GDP has touched the $4 trillion mark, placing it behind only the United States, China and Germany in size. Speaking after the 10th Governing Council meeting of the policy think tank, Subrahmanyam attributed the rise to a combination of domestic reforms and a global environment that is increasingly leaning in India’s favour. advertisement “As I speak, we are now the fourth-largest economy. We’ve reached a $4 trillion economy,” he told reporters, citing the latest IMF estimates to underscore India’s economic ascent. “Only the US, China and Germany are ahead of us. If we stick to our path, we could become the third-largest in just 2.5 to 3 years.” The milestone comes amid an evolving global economic landscape where India is positioning itself as a key alternative manufacturing hub. Subrahmanyam responded to recent remarks by former US President Donald Trump, who said iPhones sold in the US should be made domestically rather than in countries like India. “The specifics of future US tariffs remain unclear,” he said, “but India will continue to offer a cost-competitive manufacturing base regardless of those dynamics.” He also revealed that a fresh wave of asset monetisation initiatives is in the pipeline. The government is preparing a second round of its asset monetisation programme, expected to be rolled out in August. The economic milestone comes at a politically significant time, just as India looks to deepen its role in global supply chains and attract fresh investments under its ‘Make in India’ push. - Ends Published By: Atul Mishra Published On: May 25, 2025 Trending Reel Watch Live TV",
+      "url": "https://www.indiatoday.in/business/story/india-becomes-fourth-largest-economy-ahead-of-japan-niti-aayog-ceo-2730153-2025-05-25",
+      "domain": "indiatoday.in",
+      "trusted": false,
+      "credibility_score": 0.5700000000000001,
+      "content_length": 2252
+    },
+    {
+      "source_number": 10,
+      "title": "India overtakes Japan to become 4 th largest economy at $ 4 trillion...",
+      "snippet": "India is projected to remain the fastest-growing large economy for 2025 and 2026, reaffirming its dominance in the global economic landscape. In contrast, the IMF projects global economic growth to be much lower, at 2.8 per cent in 2025 and 3.0 per cent in 2026, highlighting India ’s...",
+      "full_content": "NITI Aayog Chief Executive Officer (CEO) BVR Subrahmanyam said that India has overtaken Japan to become the world’s fourth-largest economy, citing data by the International Monetary Fund . Addressing a press conference of the 10th NITI Aayog Governing Council Meeting on ‘Viksit Rajya for Viksit Bharat 2047’, Subrahmanyam stated that India’s economy has reached the USD 4 trillion mark. “We are the fourth largest economy as I speak. We are a USD 4 trillion economy as I speak, and this is not my data. This is IMF data. India today is larger than Japan. It’s only the United States, China, and Germany which are larger, and if we stick to, you know, what is being planned, what is being thought through, it’s a matter of another 2, 2.5 to 3 years; we would become the third largest economy,” said BVR Subrahmanyam, CEO, NITI Aayog. ALSO READ Niti Aayog to identify assets for Rs 10 lakh crore monetisation plan, to hire consultant “It’s only the United States, China, and Germany which are larger, and if we stick to what is being planned, what is being thought through, it’s a matter of another 2, 2.5 to 3 years; we would become the third largest economy,” Subrahmanyam added. According to the IMF’s April edition of the World Economic Outlook report, the nominal GDP for fiscal 2026 is expected to reach around USD 4,187.017 billion. This is marginally more than the likely GDP of Japan, which is estimated at USD 4,186.431 billion. India was the fifth largest economy in the world till 2024. The global financial body projects that India will remain the fastest-growing major economy over the next two years. India’s economy is expected to grow by 6.2 per cent in 2025 and 6.3 per cent in 2026, maintaining a solid lead over global and regional peers, the April 2025 edition of the IMF’s World Economic Outlook added. ALSO READ As Inflation bleeds India’s sachet economy, Zippee CEO advices against ditching the Re 1 customer India is projected to remain the fastest-growing large economy for 2025 and 2026, reaffirming its dominance in the global economic landscape. In contrast, the IMF projects global economic growth to be much lower, at 2.8 per cent in 2025 and 3.0 per cent in 2026, highlighting India’s exceptional outperformance. NITI Aayog CEO further stated that India is at a turning point and at a take-off stage where it can grow very, very rapidly. Sharing more information on the matters discussed during the Governing Council Meeting, NITI Aayog’s CEO said that the Centre and States discussed the strategies for manufacturing services, rural, non-farm, urban, informal, and the green economy sectors. “We had sub-themes for manufacturing services, rural, non-farm, urban, informal, and the green economy, as well as the circular economy. These were the broad themes that were there,” Subrahmanyam said, explaining the other details of the meeting that took place in New Delhi on Saturday",
+      "url": "https://www.financialexpress.com/policy/economy-india-overtakes-japan-to-become-4th-largest-economy-at-4-trillion-niti-aayog-ceo-3856490/",
+      "domain": "financialexpress.com",
+      "trusted": false,
+      "credibility_score": 0.5700000000000001,
+      "content_length": 2910
+    },
+    {
+      "source_number": 11,
+      "title": "India 4 th largest economy ? Not yet but soon... - Rediff.com Business",
+      "snippet": "India 's nominal GDP for 2025 (FY26) is expected to be $4.187 trillion marginally more than the likely GDP of Japan which is estimated at $4.186 trillion, the IMF had said. According to IMF data, India 's per capita income has doubled from $1,438 in 2013-14 to $2,880 in 2025.",
+      "full_content": "NITI Aayog member Arvind Virmani on Monday said India is set to become the fourth largest economy in the world by the end of 2025, an assertion which came days after NITI CEO BVR Subrahmanyam claimed India has already overtaken Japan to reach that spot. The International Monetary Fund (IMF), in its World Economic Outlook (WEO) report released in April had said that India is expected to be the fourth largest economy in the world with a GDP of $4.19 trillion in 2025, ahead of Japan. \"India is in the process of becoming the fourth largest economy, and I am personally confident that will happen by the end of 2025 because we need (data) of all 12 months GDP to say that, you know, to assert that. \"So to say till then, it remains a forecast,\" Virmani told PTI. Asked to comment on NITI Aayog CEO BVR Subrahmanyam's remark that India has become the fourth largest economy in the world, the eminent economist said: \"So this is a complicated question, and I really do not know what the words anybody has used. \"Perhaps there was some word which was missed or something.\" Citing IMF data, Subrahmanyam, last week, said that the size of the Indian economy today is larger than Japan's. \"We are a $4 trillion economy as I speak,\" the NITI Aayog CEO had said. \"It is only the US, China and Germany which are larger than India, and if we stick to what is being planned and what is being thought through, in 2.5-3 years, we will be the third largest economy,\" Subrahmanyam had said. Explaining further, Virmani said, \"When we discuss the size of economies publicly, we generally use US dollar current prices.\" Virmani further pointed out that 'when we compare economy, we generally do it in terms of annual GDP'. Virmani said IMF in its WEO report released in April gave a precise number, which showed that India's GDP for the full year 2025, would become higher than that of Japan. \"I would say that I am pretty confident that that will happen, but the exact data will probably not be available till January or February, because we are talking about the whole year,\" he observed. India's nominal GDP for 2025 (FY26) is expected to be $4.187 trillion marginally more than the likely GDP of Japan which is estimated at $4.186 trillion, the IMF had said. According to IMF data, India's per capita income has doubled from $1,438 in 2013-14 to $2,880 in 2025. The IMF in its WEO report also said the Indian economy is projected to grow at 6.2 per cent in 2025-26, slower than earlier estimated rate of 6.5 per cent, due to escalated trade tensions and global uncertainty. \"For India, the growth outlook is relatively more stable at 6.2 per cent in 2025, supported by private consumption, particularly in rural areas,\" the IMF had said. According to the report, the global growth is projected at 2.8 per cent in 2025, lower by 0.5 percentage points estimated earlier. In 2026, the global economy is estimated to grow at 3 per cent. International Museum Day: 11 Wonderful Indian Museums",
+      "url": "https://www.rediff.com/business/report/india-4th-largest-economy-not-yet-but-soon-says-niti-member/20250526.htm",
+      "domain": "rediff.com",
+      "trusted": false,
+      "credibility_score": 0.5700000000000001,
+      "content_length": 2974
+    },
+    {
+      "source_number": 12,
+      "title": "India Becomes World’s 4 th Largest Economy ... | DD News On Air",
+      "snippet": "India has surpassed Japan to become the world’s fourth- largest economy .The GDP of the US, the world’s largest economy , has been pegged at 30.5 trillion dollar for 2025, while that of China, the second biggest, is around 19.2 trillion dollars.",
+      "full_content": "Site Admin | May 25, 2025 9:40 PM India Becomes World’s 4th Largest Economy, Surpasses Japan: NITI Aayog India has surpassed Japan to become the world’s fourth-largest economy. NITI Aayog CEO B.V.R. Subrahmanyam said, India is now poised to displace Germany from the third rank in the next 2.5 to 3 years. Yesterday, briefing the media after tenth Governing Council Meeting of NITI Aayog in New Delhi, he said India is now a ‘four trillion dollar’ economy as per the IMF data. He said, it’s only the United States, China, and Germany’s economies which are larger than India. The IMF in its recent report has said that India will remain the world’s fastest-growing major economy. The IMF had stated earlier this month in the World Economic Outlook report that India continues to remain the world’s fastest-growing major economy and the only country expected to clock over 6 per cent growth in the next two years. According to the IMF, India’s GDP currently stands at 4.3 trillion dollar. India’s GDP was 2.1 trillion dollar in 2015, since then, the country has more than doubled its economy. According to the report, the high rate of growth will see India’s GDP increasing to 5.5 trillion dollar in 2028 overtaking Germany to become the third-largest economy. The IMF has projected a zero growth rate for Germany in 2025, followed by 0.9 per cent in 2026 as it is expected to be hit the hardest among the European countries due to the ongoing global trade war. The GDP of the US, the world’s largest economy, has been pegged at 30.5 trillion dollar for 2025, while that of China, the second biggest, is around 19.2 trillion dollars.",
+      "url": "https://www.newsonair.gov.in/india-becomes-worlds-4th-largest-economy-surpasses-japan-niti-aayog/",
+      "domain": "newsonair.gov.in",
+      "trusted": false,
+      "credibility_score": 0.52,
+      "content_length": 1631
+    },
+    {
+      "source_number": 13,
+      "title": "India Surpasses Japan to Become 4th Largest Economy in 2025 ...",
+      "snippet": "May 26, 2025 · India has overtaken Japan with a GDP of $4.19 trillion, becoming the 4th largest economy globally in 2025, confirms IMF data. Learn what this means for India ’s global role, growth, and future trajectory.",
+      "full_content": "Source: TOI Context: India surpassed Japan to become the 4th largest economy in the world, as confirmed by NITI Aayog CEO B.V.R. Subrahmanyam citing IMF data. About India – 4th Largest Economy in World : What is it? As per the IMF World Economic Outlook (April 2025) , India’s nominal GDP is projected at $4.19 trillion , surpassing Japan’s GDP of $4.18 trillion. This marks a major shift in global economic order and India’s rising influence. India’s New Economic Status Current Rank: 4th largest economy globally Previous Rank (2024): 5th, behind Japan New Rank Order (2025): United States, China, Germany , India, and Japan Significance of the Achievement: Global Confidence Boost: Reinforces India’s role as a key global economic power, attracting increased FDI and international partnerships. Domestic Economic Growth : India’s GDP doubled from $2 trillion (2014) to $4+ trillion (2025) and per capita income rose from $1,438 (2014) to $2,880 (2025). Strategic Manufacturing Hub: India remains a cost-effective production base despite global reshoring discussions, such as Apple’s US manufacturing push. Leadership Impact: Economic trajectory credited to policy reforms, infrastructure growth, and Digital India & Atmanirbhar Bharat missions. Future Potential: Projected to overtake Germany in the next 2.5–3 years and become the third-largest economy globally, as per NITI Aayog projections.",
+      "url": "https://www.insightsonindia.com/2025/05/26/india-4th-largest-economy-in-world/",
+      "domain": "insightsonindia.com",
+      "trusted": false,
+      "credibility_score": 0.52,
+      "content_length": 1397
+    },
+    {
+      "source_number": 14,
+      "title": "India Becomes World’s 4th Largest Economy",
+      "snippet": "May 27, 2025 · At the 10th NITI Aayog (National Institution for Transforming India) Governing Council Meeting, NITI Aayog CEO announced that India has overtaken Japan to become the world’s 4th largest economy , with its GDP crossing USD 4 trillion.",
+      "full_content": "Rapid Fire Prev Next India Becomes World’s 4th Largest Economy 27 May 2025 2 min read Tags: PIB Rapid Fire CA Quick Facts For Prelims GS Paper - 2 NITI Aayog GS Paper - 3 Economic and Social Development Source: LM At the 10 th NITI Aayog (National Institution for Transforming India) Governing Council Meeting, NITI Aayog CEO announced that India has overtaken Japan to become the world’s 4 th largest economy, with its GDP crossing USD 4 trillion. India remains the world’s fastest-growing major economy and is the only country projected to grow over 6% annually for the next two years . This sustained growth is expected to raise India’s Gross Domestic Product (GDP) to USD 5.58 trillion by 2028, enabling it to surpass Germany and become the third-largest economy globally. Earlier, the International Monetary Fund (IMF) in its 2025 World Economic Outlook Report projected that India would become the fourth-largest economy in 2025 with a nominal GDP of USD 4.187 trillion, overtaking Japan’s USD 4.186 trillion. NITI Aayog: NITI Aayog was established on 1 st January 2015 as the successor to the Planning Commission of India . It was created to serve as the premier policy think tank of the Government of India, focusing on inclusive and sustainable development through cooperative federalism and a bottom-up approach. The Prime Minister of India serves as the Chairperson, while the Vice-Chairperson is appointed by the Prime Minister. The Governing Council comprises the Chief Ministers of all States and the Lieutenant Governors of Union Territories, ensuring representation from across the country. Read more: 2025 World Economic Outlook Report Print PDF Print This Article Prev Next Please enable JavaScript to view the comments powered by Disqus.",
+      "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/india-becomes-world-s-4th-largest-economy",
+      "domain": "drishtiias.com",
+      "trusted": false,
+      "credibility_score": 0.52,
+      "content_length": 1756
+    },
+    {
+      "source_number": 15,
+      "title": "India An Overview | PPT | Commodities | Economy",
+      "snippet": "India is the 4 th largest economy in the world with a population over 1 billion people and GDP of $425 billion. It has experienced rapid economic growth in recent decades with GDP growth of 8.1% in 2003-2004.",
+      "full_content": "India is the 4th largest economy in the world with a population over 1 billion people and GDP of $425 billion. It has experienced rapid economic growth in recent decades with GDP growth of 8.1% in 2003-2004. However, trade with Poland remains relatively small, with India only accounting for 0.33% of Poland's imports in 2003. There are opportunities to increase bilateral investments and joint ventures between the two countries, especially in sectors like automobiles, chemicals, and electronics.",
+      "url": "https://www.slideshare.net/FNian/india-an-overview-presentation",
+      "domain": "slideshare.net",
+      "trusted": false,
+      "credibility_score": 0.52,
+      "content_length": 498
+    }
+  ],
+  "source_analysis": {
+    "contradictions": [],
+    "confirmations": [
+      {
+        "source": 1,
+        "type": "explicit_confirmation",
+        "evidence": "This Article is From May 25, 2025 India Becomes World's Fourth Largest Economy, Overtakes Japan: NITI Aayog CEO Briefing reporters after the 10th Governing Council meeting of Niti Aayog, BVR Subrahman"
+      },
+      {
+        "source": 2,
+        "type": "explicit_confirmation",
+        "evidence": "From Wikipedia, the free encyclopedia Economy of India Mumbai , the financial capital of India [ 1 ] [ 2 ] Currency Indian rupee (INR, ₹) Fiscal year 1 April – 31 March Trade organisations WTO , WCO ,"
+      },
+      {
+        "source": 3,
+        "type": "explicit_confirmation",
+        "evidence": "India surpasses Japan to become 4th largest economy, eyes Germany for 3rd spot by 2027 India has become the fourth largest economy in the world, overtaking Japan, NITI Aayog CEO BVR Subrahmanyam has s"
+      },
+      {
+        "source": 4,
+        "type": "explicit_confirmation",
+        "evidence": "Amid global trade tension, NITI Aayog CEO said that with a GDP of $4 trillion, India has overtaken Japan to become the world’s fourth-largest economy, India has rewritten the global economic leaderboa"
+      },
+      {
+        "source": 5,
+        "type": "explicit_confirmation",
+        "evidence": "Startupro.in 154,028 followers 6mo Report this post India Becomes 4th Largest Economy — But the Real Climb Has Just Begun. In a milestone moment for the #IndianEconomy , India has officially overtaken"
+      },
+      {
+        "source": 6,
+        "type": "explicit_confirmation",
+        "evidence": "Synopsis India is now purportedly the world's fourth-largest economy, surpassing Japan, with a projected GDP of $4.187 billion by FY26. However, the reality on the ground, with infrastructure challeng"
+      },
+      {
+        "source": 7,
+        "type": "explicit_confirmation",
+        "evidence": "Chugh hails PM Modi’s vision: Atmanirbhar Bharat makes India 4th largest economy in just five years BJP National General Secretary Tarun Chugh today hailed Prime Minister Narendra Modi’s leadership, s"
+      },
+      {
+        "source": 8,
+        "type": "explicit_confirmation",
+        "evidence": "India Becomes World’s 4th Largest Economy: A Look at GDP Numbers India has officially become the world’s 4th largest economy by nominal GDP in 2025 , overtaking Japan, according to the latest data rel"
+      },
+      {
+        "source": 9,
+        "type": "explicit_confirmation",
+        "evidence": "India now fourth-largest economy, ahead of Japan: Niti Aayog CEO India's GDP has reached $4 trillion, placing it behind only the US, China, and Germany, according to IMF data cited by NITI Aayog CEO B"
+      },
+      {
+        "source": 10,
+        "type": "explicit_confirmation",
+        "evidence": "NITI Aayog Chief Executive Officer (CEO) BVR Subrahmanyam said that India has overtaken Japan to become the world’s fourth-largest economy, citing data by the International Monetary Fund . Addressing "
+      },
+      {
+        "source": 11,
+        "type": "explicit_confirmation",
+        "evidence": "NITI Aayog member Arvind Virmani on Monday said India is set to become the fourth largest economy in the world by the end of 2025, an assertion which came days after NITI CEO BVR Subrahmanyam claimed "
+      },
+      {
+        "source": 12,
+        "type": "explicit_confirmation",
+        "evidence": "Site Admin | May 25, 2025 9:40 PM India Becomes World’s 4th Largest Economy, Surpasses Japan: NITI Aayog India has surpassed Japan to become the world’s fourth-largest economy. NITI Aayog CEO B.V.R. S"
+      },
+      {
+        "source": 13,
+        "type": "explicit_confirmation",
+        "evidence": "Source: TOI Context: India surpassed Japan to become the 4th largest economy in the world, as confirmed by NITI Aayog CEO B.V.R. Subrahmanyam citing IMF data. About India – 4th Largest Economy in Worl"
+      },
+      {
+        "source": 14,
+        "type": "explicit_confirmation",
+        "evidence": "Rapid Fire Prev Next India Becomes World’s 4th Largest Economy 27 May 2025 2 min read Tags: PIB Rapid Fire CA Quick Facts For Prelims GS Paper - 2 NITI Aayog GS Paper - 3 Economic and Social Developme"
+      }
+    ],
+    "supporting_sources": 15,
+    "contradicting_sources": 0,
+    "neutral_sources": 0,
+    "fake_indicators": [],
+    "claims_extracted": {
+      "numerical_claims": [],
+      "entities": [],
+      "temporal_claims": []
+    },
+    "consensus_ratio": 1.0
+  },
+  "verification_quality": "HIGH"
+}
